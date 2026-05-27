@@ -52,11 +52,7 @@ source venv/bin/activate
 .\venv\Scripts\activate
 ```
 ### 3. Instalar as Dependências
-Com o ambiente virtual ativado, instale as dependências listadas no requirements.txt:
-
-```Bash
-pip install -r requirements.txt
-```
+Essa aplicação utiliza apenas as bibliotecas padrão do Python, não sendo necessario a utilização de nenhuma biblioteca externa
 
 ### 4. Executar a Aplicação
 Certifique-se de que seu ambiente virtual está ativado e que você está na raiz do projeto e execute o seguinte comando:
